@@ -1,0 +1,109 @@
+body{
+	background-color: #040A16;
+	}
+	
+div.cabecera {
+			height:55%;
+			overflow:hidden;
+			}		
+div.cabecera img{
+				width: 100%;
+				}
+
+div.menu{	
+		width: 100%;
+		height: 10%;
+		background: #fcf2ff;
+		margin: auto;
+		top: 0px;
+		text-align: center;
+		position: sticky;
+		}		
+div.menu a {
+			font-family: 'Trebuchet MS', sans-serif;
+			font-size: 22px;
+			line-height: 50px;
+			color: #040A16;
+			text-decoration: none;
+			margin: auto 20px;
+			font-weight: bold;
+			}
+div.menu a:hover{
+				color: hotpink;
+				}
+
+div.cajatexto{	
+			width: 500px;
+			background: #3d3955;
+			padding: 40px;
+			margin:	auto;
+			}
+div.cajatexto #titulo{ 
+					font-family: 'Monaco', sans-serif;
+					font-size: 32px;
+					line-height: 50px;
+					color: #ff589c;
+					font-weight: bold;
+					}			
+div.cajatexto #subtitulo{ 
+						font-family: 'Monaco', sans-serif;
+						font-size: 20px;
+						line-height: 30px;
+						color: #F9F871;
+						font-weight: bold;
+						}
+div.cajatexto h4{
+				font-family: 'Monaco', sans-serif;
+				color: #F5F9FF;	
+				}
+div.cajatexto hr{ 
+				opacity: .2;
+				color: #291528;
+				margin: 30px;
+				}
+div.cajatexto p{
+				font-family: 'Courier New', serif;
+				line-height: 20px;
+				margin-bottom: 10px;
+				color: #F5F9FF;
+				}			
+div.cajatexto img{ 
+				width:35%;
+				}
+
+				
+form.formulario label{
+					font-family: 'Monaco', sans-serif;
+					color: white;
+					size="30px";
+					}
+form.formulario #boton{
+			margin: 5px;
+			}	
+	
+div.pie{	
+		width: 100%;
+		height: 10%;
+		background: #fcf2ff;
+		text-align: right;
+		position: static;
+		padding: 3px;
+		line-height:5%;
+		}	
+div.pie a{
+		font-family: 'Monaco', sans-serif;
+		font-size: 15px;
+		color: #040A16;
+		text-decoration: none;
+		font-weight: bold;
+		padding-right:10px;
+		}
+div.pie a:hover{
+				color: hotpink;
+				}				
+div.pie img{ 
+			width: 2%;
+			padding-right: 10px;
+			padding-top: 15px;
+			vertical-align: sub;
+			}
