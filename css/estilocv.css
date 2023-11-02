@@ -3,7 +3,7 @@ body{
 	}
 	
 div.cabecera {
-			height:55%;
+			height:25%; /* imagen de cabecera empequeñecida */
 			overflow:hidden;
 			}		
 div.cabecera img{
