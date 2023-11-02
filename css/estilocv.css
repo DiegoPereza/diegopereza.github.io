@@ -3,7 +3,7 @@ body{
 	}
 	
 div.cabecera {
-			height:25%; /*imagen de cabecera empequeñecida*/
+			height:25%; /* imagen empequeñecida */
 			overflow:hidden;
 			}		
 div.cabecera img{
@@ -70,7 +70,9 @@ div.cajatexto p{
 div.cajatexto img{ 
 				width:35%;
 				}
-
+div.cajatexto img#fotoindex{ /*tamaño de la imagen de presentación*/
+						width:100%;
+						}
 				
 form.formulario label{
 					font-family: 'Monaco', sans-serif;
